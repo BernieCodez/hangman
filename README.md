@@ -1,7 +1,6 @@
-# Hangman
-I have updated Hangman to v3.0!
-In addition, there are 2 versions of it.
-[Hangman v3.0](https://onlinegdb.com/JjgjaoAlk)
-[Hangman v3.0 Fast](https://onlinegdb.com/_z-QqIswX) (Changed the code to optimize speed. Faster but may not work as well.)
-Click 'run' to play!
-P.S. You'll probably want to know how to play hangman.
+#Hangman
+
+Hangman has been updated to v4.0!
+In addition, there are now 2 versions!
+- [Hangman v4.0](https://onlinegdb.com/9fwTbdpWQ "Hangman v4.0") (Original)
+- [Hangman v4.0 Fast](https://onlinegdb.com/9fwTbdpWQ "Hangman v4.0 Fast") (Code was rewritten to optmize speed. Faster but may not work as well.)
