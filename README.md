@@ -3,7 +3,7 @@
 In addition, there are now 2 versions!</p>
 <ul>
 <li class="has-line-data" data-line-start="4" data-line-end="5"><a href="https://onlinegdb.com/9fwTbdpWQ" title="Hangman v4.0">Hangman v4.0</a> (Original)</li>
-<li class="has-line-data" data-line-start="5" data-line-end="7"><a href="https://onlinegdb.com/XngxS5xA1" title="Hangman v4.0 Fast">Hangman v4.0 Fast</a> (Code was rewritten to optmize speed. Faster but may not work as well.)</li>
+<li class="has-line-data" data-line-start="5" data-line-end="7"><a href="https://onlinegdb.com/XngxS5xA1" title="Hangman v4.0 Fast">Hangman v4.0 Fast</a> (Code was rewritten to optimize speed. Faster but may not work as well.)</li>
 </ul>
 <h1 class="code-line" data-line-start=7 data-line-end=8 ><a id="How_To_Play__Tips_7"></a>How To Play + Tips</h1>
 <p class="has-line-data" data-line-start="8" data-line-end="10">If you don’t know how to play hangman then well… you should know. I suppose thats why you’re here. Anyhow, here’s how its played:<br>
@@ -26,4 +26,4 @@ v3.0 Added color and bug fixes<br>
 v4.0 Obfuscated code. Requires bug fixes.</p>
 <h1 class="code-line" data-line-start=29 data-line-end=30 ><a id="Credits_29"></a>Credits</h1>
 <p class="has-line-data" data-line-start="30" data-line-end="32">Created by BernieCodez<br>
-Assissted by AI.</p>
+Assisted by AI.</p>
